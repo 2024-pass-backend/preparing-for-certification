@@ -18,6 +18,6 @@
 ## 소프트웨어설계
 |  아이템  |                        학습자료                         |
 |:-----:|:---------------------------------------------------:|
-| 기출 1회 | 박수현 : [자료1](), [자료2](), [자료3]()  <br> 지준혁 : [지준혁]() |
+| 기출 1회 | 박수현 : [자료1](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/software-design/software-design(1)-suhyun.md), [자료2](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/software-design/software-design(2)-suhyun.md), [자료3](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/software-design/software-design(3)-suhyun.md)  <br> 지준혁 : [지준혁]() |
 | 기출 2회 |                                                     |
 |       |                       공란으로 표기                       |
