@@ -16,7 +16,7 @@
 - 생성패턴
   - 팩토리메소드(Factory Method)
   - 싱글톤(SingleTone)
-  - 추상팩토리(Aba)
+  - 추상팩토리(Abstract Factory)
   - 빌더(Builder)
   - 프로토타입(Prototype)
 - 구조패턴
