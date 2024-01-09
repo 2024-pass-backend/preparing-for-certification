@@ -2,9 +2,10 @@
 - 본 레파지토리는, 2024 정처기 합격을 위한 레파지토리입니다.
 
 ## 커밋 컨벤션
-- 'docs: 과목명(X회) - 이름'형태로 커밋을 한다.
-  - ex) docs: 소프트웨어설계(1회) - 박수현
-  - ex) docs: 소프트웨어개발(2회) - 지준혁
+- 년도와 월은 cbt기준으로 작성한다.
+- 'docs: 202204 과목명 - 이름'형태로 커밋을 한다.
+  - ex) docs: 202204 소프트웨어설계 - 박수현
+  - ex) docs: 202003 소프트웨어개발 - 지준혁
 
 ## 파일명 컨벤션
 - 폴더이름(만든순서)-이름.md
@@ -16,8 +17,8 @@
   - **(이미지 명 끝에 꼭 이름을 넣는다.)**
 
 ## 소프트웨어설계
-|  아이템  |                        학습자료                         |
-|:-----:|:---------------------------------------------------:|
-| 기출 1회 | 박수현 : [자료1](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/software-design/software-design(1)-suhyun.md), [자료2](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/software-design/software-design(2)-suhyun.md), [자료3](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/software-design/software-design(3)-suhyun.md)  <br> 지준혁 : [지준혁]() |
-| 기출 2회 |                                                     |
-|       |                       공란으로 표기                       |
+|      아이템      |                                                                                                                                                                                                           학습자료                                                                                                                                                                                                           |
+|:-------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 2020년 기출 1,2회 | 박수현 : [자료1](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/software-design/software-design(1)-suhyun.md), [자료2](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/software-design/software-design(2)-suhyun.md), [자료3](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/software-design/software-design(3)-suhyun.md)  <br> 지준혁 : [지준혁]() |
+|  2020년 기출 3회  |                                                                                                                                                                                                      박수현 : [자료1]()                                                                                                                                                                                                       |
+|               |                                                                                                                                                                                                         공란으로 표기                                                                                                                                                                                                          |
