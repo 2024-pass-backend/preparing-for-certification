@@ -30,3 +30,10 @@
 | 2022년 기출 2회 | 박수현 : [자료1](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/software-development/software-development(1)-suhyun.md), [자료2](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/software-development/software-development(2)-suhyun.md)  <br> 지준혁 : [지준혁]() |
 | 2022년 기출 1회 |                                                                                                                                                                                                      박수현 : [자료1](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/software-development/software-development(3)-suhyun.md), [자료2](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/software-development/software-development(4)-suhyun.md)                                                                                                                                                                                               |
 |             |                                                                                                                                                                                                         공란으로 표기                                                                                                                                                                                                          |
+
+## 데이터베이스구축
+|     아이템     |                    학습자료                    |
+|:-----------:|:------------------------------------------:|
+| 2022년 기출 2회 | 박수현 : [자료1](), [자료2]()  <br> 지준혁 : [지준혁]() |
+| 2022년 기출 1회 |           박수현 : [자료1](), [자료2]()           |
+|             |                  공란으로 표기                   |
