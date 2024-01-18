@@ -35,7 +35,7 @@
 |   아이템    |                                                                           학습자료                                                                            |
 |:--------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 2022년 4월 | 박수현 : [자료1]() <br> 지준혁 : [지준혁](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/database-building/database-building-junhyuk.md) |
-| 2022년 3월 |                                                                박수현 : [자료1]() <br> [지준혁]()                                                                 |
+| 2022년 3월 |                                                                박수현 : [자료1](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/database-building/database-building(2)-suhyun.md) <br> [지준혁]()                                                                 |
 | 2020년 6월 |                                                                          공란으로 표기                                                                          |
 
 ## 프로그래밍언어활용
