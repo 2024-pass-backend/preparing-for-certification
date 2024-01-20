@@ -48,6 +48,6 @@
 ## 정보시스템구축관리
 |   아이템    |         학습자료         |
 |:--------:|:--------------------:|
-| 2022년 4월 | [박수현](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/programming-language/programming-language-suhyun.md) <br> [지준혁]() |
+| 2022년 4월 | [박수현]([https://github.com/2024-pass-backend/preparing-for-certification/blob/main/programming-language/programming-language-suhyun.md](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/information-system/information-system-suhyun.md)https://github.com/2024-pass-backend/preparing-for-certification/blob/main/information-system/information-system-suhyun.md) <br> [지준혁]() |
 |  |                      |
 |          |       공란으로 표기        |
