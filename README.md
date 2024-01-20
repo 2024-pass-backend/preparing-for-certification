@@ -44,3 +44,10 @@
 | 2022년 4월 | [박수현](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/programming-language/programming-language-suhyun.md) <br> [지준혁]() |
 |  |                      |
 |          |       공란으로 표기        |
+
+## 정보시스템구축관리
+|   아이템    |         학습자료         |
+|:--------:|:--------------------:|
+| 2022년 4월 | [박수현](https://github.com/2024-pass-backend/preparing-for-certification/blob/main/programming-language/programming-language-suhyun.md) <br> [지준혁]() |
+|  |                      |
+|          |       공란으로 표기        |
